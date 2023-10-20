@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AltYapi.Sınıflar.Banka">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAABAAAAA=</HashCode>
+      <FileName>Sınıflar\Banka.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AltYapi.Sınıflar.Musteri">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAIAAAAAACAAIAAAAAAAAg=</HashCode>
+      <FileName>Sınıflar\Musteri.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AltYapi.Sınıflar.Numerator">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAAAAQAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Sınıflar\Numerator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="AltYapi.AraBirimler.IBanka" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAABAAAAA=</HashCode>
+      <FileName>AraBirimler\IBanka.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AltYapi.AraBirimler.IMusteri" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAIAAAAAACAAIAAAAAAAAg=</HashCode>
+      <FileName>AraBirimler\IMusteri.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AltYapi.AraBirimler.INumerator" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAAAAQAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>AraBirimler\INumerator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Delegate Name="AltYapi.AraBirimler.NumaraDelege" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AraBirimler\IMusteri.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
